@@ -1,0 +1,6 @@
+
+
+Started GET "/" for ::1 at 2016-03-19 22:50:23 -0500
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html (1.6ms)
+Completed 200 OK in 24ms (Views: 16.7ms | ActiveRecord: 0.0ms)
